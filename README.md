@@ -17,3 +17,5 @@
 [![Hugo stats](https://github-readme-stats.vercel.app/api?username=hugobertoncelo)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugobertoncelo)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=hugobertoncelo-your-github-username&abbreviated=true)
