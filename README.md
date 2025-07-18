@@ -1,7 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Hugo Bertoncelo</h1>
-<h3>Com formação em Análise de Sistemas de Computação pela FAESA e Rocketseat, atualmente aprimoro minhas habilidades práticas em desenvolvimento front-end na Dev Club. Meu foco está em tecnologias emergentes, como TypeScript e React.js, as quais aplico em projetos pessoais e profissionais.
+<h3>Formado em Análise e Desenvolvimento de Sistemas pela FAESA e sigo me atualizando constantemente por meio de cursos na Rocketseat, Dev Club e outras formações voltadas para tecnologia.
 
-Minha transição da mecânica para TI reflete uma busca contínua por desafios e crescimento. Na Dev Club, contribuo com soluções criativas para o desenvolvimento de aplicações web, sempre com o objetivo de entregar projetos inovadores que superem as expectativas.</h3>
+Atuo como desenvolvedor full stack, com especialização em tecnologias modernas como JavaScript, TypeScript e React.js no front-end, além de Node.js no back-end.
+
+Minha trajetória profissional inclui uma transição estratégica da área de mecânica para a tecnologia, impulsionada pela paixão por inovação e por enfrentar desafios. Tenho aplicado soluções criativas e eficientes no desenvolvimento de aplicações web, com foco em performance, usabilidade e inovação.
+
+Busco estar sempre alinhado às tendências do setor, contribuindo com projetos que entregam valor real, são escaláveis, acessíveis e impactam positivamente a experiência do usuário.</h3>
 
 - 📫 Meu e-mail **hugobertoncelo@gmail.com**
 
